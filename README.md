@@ -47,7 +47,7 @@ cd UEFA-Champions-League-UCL-Winner-Prediction-System
 
 2. Install required dependencies:
 ```bash
-pip install -r requirements.txt
+pip install ( necessary libraries)
 ```
 
 3. Navigate to the notebooks directory:
