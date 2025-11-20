@@ -89,11 +89,9 @@ Prediction results and model performance metrics can be found in the `prediction
 - **Scikit-learn**: Machine learning algorithms
 - **Matplotlib & Seaborn**: Data visualization
 
-## 🧠 Model Architecture
-
 ### Ensemble Learning Approach
 
-
+```
 ┌─────────────────────────────────────────────────────┐
 │              INPUT: Group Stage Stats               │
 │  (Wins, Draws, Losses, Goals, Points, etc.)        │
@@ -130,6 +128,7 @@ Prediction results and model performance metrics can be found in the `prediction
 │              OUTPUT: Win Probabilities              │
 │         (Top 16 Teams Ranked by Likelihood)         │
 └─────────────────────────────────────────────────────┘
+```
 
 
 ### Test Set Validation (2021-2024)
