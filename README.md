@@ -1,4 +1,4 @@
-## UEFA Champions League (UCL) Winner Prediction System
+### UEFA Champions League (UCL) Winner Prediction System
 
 This project uses Machine Learning to predict UEFA Champions League (UCL) winners based on group stage performance statistics.
 
